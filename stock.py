@@ -29,3 +29,4 @@ for btc_dict in btc_data:
 plt.plot(openprice)  # ①
 plt.show()
 print('HI')
+version 2
