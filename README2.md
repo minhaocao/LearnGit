@@ -1,2 +1,2 @@
 # learngit
-Readme2
+Readme2。2
